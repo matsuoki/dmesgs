@@ -1,5 +1,5 @@
 # dmesgs
-FreeBSD dmesg
+FreeBSDでdmesgした時のログ集・・・になる予定
 
 
 
